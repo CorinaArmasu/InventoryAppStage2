@@ -1,6 +1,6 @@
 ## PROJECT SPECIFICATION
 
-  Inventory App, Stage 2
+  9.Inventory App, Stage 2
    
 # Layout
 
