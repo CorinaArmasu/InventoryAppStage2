@@ -107,3 +107,15 @@ Format:
 
 The code is properly formatted i.e. there are no unnecessary blank lines; there are no unused variables or methods; there is no commented out code.
 The code also has proper indentation when defining variables and methods.
+
+![screenshot_20181014-222327](https://user-images.githubusercontent.com/34723009/46942231-8bccb580-d075-11e8-9dfb-d34ef14bfe41.png)
+
+![screenshot_20181014-222417](https://user-images.githubusercontent.com/34723009/46942235-8d967900-d075-11e8-9689-a3c998375e22.png)
+
+![screenshot_20181014-222428](https://user-images.githubusercontent.com/34723009/46942240-8f603c80-d075-11e8-83a4-319803b81ebe.png)
+
+![screenshot_20181014-222450](https://user-images.githubusercontent.com/34723009/46942242-91c29680-d075-11e8-928c-ba084d0f2d78.png)
+
+![screenshot_20181014-222459](https://user-images.githubusercontent.com/34723009/46942249-9424f080-d075-11e8-9105-6878483a3e31.png)
+
+![screenshot_20181014-222519](https://user-images.githubusercontent.com/34723009/46942251-96874a80-d075-11e8-8dc9-02141d69d77a.png)
